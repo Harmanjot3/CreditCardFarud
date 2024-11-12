@@ -1,17 +1,1 @@
-"Accountno:","0000000020015354"
-"Customer Name:","MR BALJINDER SINGH"
-"Address:","H.NO.124 ST NO.12 MOHALLA KRISHNA NAGAR NEAR BALKRISHAN HOSPITAL HOSHIARPUR PUN 146001"
-
-
-"Transaction Details:"
-"Date","Sr.No.","Transaction Details","Reward Point Header","Intl.Amount","Amount(in Rs)","BillingAmountSign"
-"5241XXXXXXXX8000"
-"11/08/2023","7907221225","INFINITY PAYMENT RECEIVED THANK YOU","0","0","244.19","CR"
-"03/09/2023","8006503627","Interest Amount Amortization - <2/6>","0","0","50.17",""
-"03/09/2023","8006503632","IGST-CI@18%","0","0","9.03",""
-"03/09/2023","8006503644","Principal Amount Amortization - <2/6>","0","0","783.43",""
-
-
-"EMI Details:"
-"Transaction/LoanType","Creation Date","Finish Date","No. of Installments","EMI/Loan Amount","Pending Installments","Outstanding Amount*","Monthly Installment Amount"
-"Merchant EMI conversions","03/08/2023","03/01/2024","6","4790.00","4","3334.39","833.60"
+"
